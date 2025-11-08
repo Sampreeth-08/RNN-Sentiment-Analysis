@@ -1,0 +1,9 @@
+# Ignore the large dataset file
+data/IMDB Dataset.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files (if you had any)
+.env
