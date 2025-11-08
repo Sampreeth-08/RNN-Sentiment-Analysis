@@ -21,7 +21,7 @@ This project implements and systematically evaluates multiple Recurrent Neural N
 │   ├── log_epochs.py         # Script to log detailed epoch data
 │   └── plot.py               # Script to generate all report plots
 ├── README.md
-└── report.pdf                # Final project report
+└── 641_Homework_3.pdf                # Final project report
 ```
 
 ## Setup Instructions
